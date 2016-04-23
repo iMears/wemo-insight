@@ -1,0 +1,19 @@
+{
+  "name": "wemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "http": "0.0.0",
+    "iron-node": "^2.2.17",
+    "jsome": "^2.3.24",
+    "wemo-client": "^0.6.6"
+  }
+}
